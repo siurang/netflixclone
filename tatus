@@ -1,0 +1,11 @@
+[33mcommit 220c0729dd5ab16452805d7ad1c266bddc03cf80[m[33m ([m[1;36mHEAD -> [m[1;32mnetflixclone[m[33m)[m
+Author: SIYOU KIM <siuphysics33@gmail.com>
+Date:   Tue Mar 22 22:28:13 2022 +0900
+
+    넷플릭스 클론_ 모달 바깥 클릭시 종료
+
+[33mcommit a43233cabb6be71c37045eff643a918b09f434e7[m[33m ([m[1;32mmaster[m[33m)[m
+Author: SIYOU KIM <siuphysics33@gmail.com>
+Date:   Sat Mar 12 20:07:48 2022 +0900
+
+    Initialize project using Create React App
